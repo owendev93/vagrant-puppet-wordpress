@@ -1,0 +1,13 @@
+# Configuración de MySQL
+mysql::db_name: 'wordpress'
+mysql::db_user: 'wordpress'
+mysql::db_password: 'password123456'
+
+#Configuración de WordPress
+wordpress::url: 'http://localhost:8080'
+wordpress::wp_title: 'Actividad 1 - WordPress - Owen Puerta Sauto'
+wordpress::admin_user: 'admin'
+wordpress::admin_password: 'password'
+wordpress::admin_email: 'owenpuertasauto@gmail.com'
+wordpress::path: '/var/www/html/wordpress'
+wordpress::allow_root: true
