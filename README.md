@@ -1,1 +1,1 @@
-# vagrant-puppet-wordpress
+# Vagrant-Puppet-Wordpress
