@@ -11,7 +11,7 @@ los tiempos de despliegue y asegurar consistencia en la infraestructura.
 
 >[!TIP]
 >🔥 ¿Cómo se aplica IaaC en tu proyecto?
-Vagrant → Define una máquina virtual de forma declarativa en un Vagrantfile → (Infraestructura declarada como código).
+>Vagrant → Define una máquina virtual de forma declarativa en un Vagrantfile → (Infraestructura declarada como código).
 Puppet → Define configuraciones del sistema (instalación de Apache, PHP, MySQL, WordPress) como "manifiestos" → (Configuraciones codificadas y automatizadas).
 VirtualBox → Actúa como motor de virtualización, gestionado automáticamente por Vagrant → (Infraestructura física virtualizada, controlada por código).
 En conjunto:
