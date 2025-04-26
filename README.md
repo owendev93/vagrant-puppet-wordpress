@@ -15,7 +15,7 @@ los tiempos de despliegue y asegurar consistencia en la infraestructura.
 
 Este proyecto demuestra la aplicación real de los principios de **Infrastructure as Code (IaaC)** para el aprovisionamiento automático de un entorno WordPress funcional sobre una máquina virtual.
 
-### ✅ ¿Cómo se aplica IaaC?
+### ¿Cómo se aplica IaaC?
 
 - **Vagrant**  
   Define y gestiona una máquina virtual a través de un `Vagrantfile`, permitiendo la creación de entornos reproducibles de manera automatizada.
@@ -26,7 +26,7 @@ Este proyecto demuestra la aplicación real de los principios de **Infrastructur
 - **VirtualBox**  
   Proporciona el motor de virtualización gestionado de forma programática mediante Vagrant, eliminando la necesidad de configuraciones manuales.
 
-### 🔥 Proceso Automatizado:
+### Proceso Automatizado:
 
 1. Creación y configuración automática de la máquina virtual.
 2. Instalación automatizada de servicios necesarios (LAMP stack).
